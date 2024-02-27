@@ -1,5 +1,3 @@
-<p align="center">
-# **Funcional Programming Course at AGH UST**
-</p>
+# Funcional Programming Course at AGH UST
 
 Here are my solutions to basic tasks in haskell. Tasks were part of Funcional Programming Course at AGH UST.
